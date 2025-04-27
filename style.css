@@ -1,0 +1,47 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px;
+}
+
+/* 🎈 Event Playground */
+#event-playground button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#output {
+    font-size: 2rem;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* 🔥 Glow Effect */
+.glow-hover {
+    transition: box-shadow 0.3s ease-in-out, transform 0.2s;
+}
+
+.glow-hover:hover {
+    box-shadow: 0 0 15px #00f;
+    transform: scale(1.1);
+}
+
+/* 🖼️ Image Gallery */
+#gallery img {
+    width: 100px;
+    height: auto;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+/* 📋 Form Validation */
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
