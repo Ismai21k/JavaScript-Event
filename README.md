@@ -24,11 +24,4 @@ It demonstrates fundamental concepts like **event handling**, **dynamic interact
 2. Open the `index.html` file in your web browser.
 3. Interact with the app and explore the features.
 
-## Future Improvements
-- Add animations to the image gallery.
-- Real-time password strength indicator.
-- Improve accessibility for better user experience.
 
----
-
-**Built with ❤️ by [Your Name]**
